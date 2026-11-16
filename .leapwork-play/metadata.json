@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-16T10:14:34.440Z",
+  "repo": {
+    "connectorId": 145,
+    "repoSlug": "chsh-01/task1884_1",
+    "baseBranch": "main"
+  },
+  "team": {
+    "assetId": 13022,
+    "displayId": "TM-1",
+    "name": "RetailDemoApp"
+  },
+  "tree": [
+    {
+      "assetId": 14639,
+      "displayId": "TC-3",
+      "name": "BugTC",
+      "kind": "test-case",
+      "repoPath": "TC-3-BugTC.spec.ts"
+    },
+    {
+      "assetId": 14386,
+      "displayId": "TC-2",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-2-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 13023,
+      "displayId": "TC-1",
+      "name": "Retaildemo_SignInRegister",
+      "kind": "test-case",
+      "repoPath": "TC-1-Retaildemo_SignInRegister.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 13023,
+      "assetKind": "test-case",
+      "displayId": "TC-1",
+      "name": "Retaildemo_SignInRegister",
+      "repoPath": "TC-1-Retaildemo_SignInRegister.spec.ts",
+      "parentAssetId": 13022
+    },
+    {
+      "assetId": 14386,
+      "assetKind": "test-case",
+      "displayId": "TC-2",
+      "name": "New test case",
+      "repoPath": "TC-2-New-test-case.spec.ts",
+      "parentAssetId": 13022
+    },
+    {
+      "assetId": 14639,
+      "assetKind": "test-case",
+      "displayId": "TC-3",
+      "name": "BugTC",
+      "repoPath": "TC-3-BugTC.spec.ts",
+      "parentAssetId": 13022
+    }
+  ]
+}
