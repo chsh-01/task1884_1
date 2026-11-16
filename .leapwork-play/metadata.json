@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T10:14:34.440Z",
+  "generatedAt": "2026-11-16T10:38:54.795Z",
   "repo": {
-    "connectorId": 145,
+    "connectorId": 146,
     "repoSlug": "chsh-01/task1884_1",
     "baseBranch": "main"
   },
@@ -13,50 +13,50 @@
   },
   "tree": [
     {
-      "assetId": 14639,
-      "displayId": "TC-3",
-      "name": "BugTC",
-      "kind": "test-case",
-      "repoPath": "TC-3-BugTC.spec.ts"
+      "assetId": 15060,
+      "displayId": "AG-1",
+      "name": "AG-1",
+      "kind": "agent",
+      "repoPath": "AG-1-AG-1.agent.json"
     },
     {
-      "assetId": 14386,
-      "displayId": "TC-2",
-      "name": "New test case",
+      "assetId": 15058,
+      "displayId": "TC-4",
+      "name": "TC-4",
       "kind": "test-case",
-      "repoPath": "TC-2-New-test-case.spec.ts"
+      "repoPath": "TC-4-TC-4.spec.ts"
     },
     {
-      "assetId": 13023,
-      "displayId": "TC-1",
-      "name": "Retaildemo_SignInRegister",
-      "kind": "test-case",
-      "repoPath": "TC-1-Retaildemo_SignInRegister.spec.ts"
+      "assetId": 15059,
+      "displayId": "TS-1",
+      "name": "TS-1",
+      "kind": "typescript",
+      "repoPath": "TS-1-TS-1.ts"
     }
   ],
   "files": [
     {
-      "assetId": 13023,
-      "assetKind": "test-case",
-      "displayId": "TC-1",
-      "name": "Retaildemo_SignInRegister",
-      "repoPath": "TC-1-Retaildemo_SignInRegister.spec.ts",
+      "assetId": 15060,
+      "assetKind": "agent",
+      "displayId": "AG-1",
+      "name": "AG-1",
+      "repoPath": "AG-1-AG-1.agent.json",
       "parentAssetId": 13022
     },
     {
-      "assetId": 14386,
+      "assetId": 15058,
       "assetKind": "test-case",
-      "displayId": "TC-2",
-      "name": "New test case",
-      "repoPath": "TC-2-New-test-case.spec.ts",
+      "displayId": "TC-4",
+      "name": "TC-4",
+      "repoPath": "TC-4-TC-4.spec.ts",
       "parentAssetId": 13022
     },
     {
-      "assetId": 14639,
-      "assetKind": "test-case",
-      "displayId": "TC-3",
-      "name": "BugTC",
-      "repoPath": "TC-3-BugTC.spec.ts",
+      "assetId": 15059,
+      "assetKind": "typescript",
+      "displayId": "TS-1",
+      "name": "TS-1",
+      "repoPath": "TS-1-TS-1.ts",
       "parentAssetId": 13022
     }
   ]
