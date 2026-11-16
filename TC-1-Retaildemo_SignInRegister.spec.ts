@@ -114,3 +114,10 @@ await leapwork.step("Click the Sign in button in the account form", async () => 
 
 //new 
 //updated 2
+
+// ai-studio-step-id: pw94yomb00
+await leapwork.step("Step name", async () => {
+  // Step implementation
+}, {
+  action: "click"
+});
