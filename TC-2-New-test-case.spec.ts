@@ -30,3 +30,9 @@ leapwork.configuration({
 
 //new 2
 //updated 3
+// ai-studio-step-id: pw7uiedk00
+await leapwork.step("Step name", async () => {
+  // Step implementation
+}, {
+  action: "click"
+});
